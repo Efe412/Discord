@@ -1,2 +1,2 @@
-// Geliştirme için buraya yazı parlamaları ya da dinamik hover efektleri ekleyebilirsin
+// Şu an gerek yok ama ileri seviye efektlerde kullanılacak
 console.log("Sayfa yüklendi.");
